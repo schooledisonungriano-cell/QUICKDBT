@@ -10,5 +10,3 @@ sources:
         identifier: orders
       - name: orderitems
         identifier: orderitems
-      - name: employees
-        identifier: employees
